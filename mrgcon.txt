@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is on bugfix branch bugfic 
+=======
+this is on master branch bugfic 
+>>>>>>> 1c0da30 (mbx)
